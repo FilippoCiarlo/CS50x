@@ -1,0 +1,72 @@
+
+sort1 uses:
+
+    Bubble Sort
+
+How do you know?:
+
+    SORT1 - TESTs
+    Values  | Sorted | Random  | Reversed
+    5000	| 0.023s | 0.0213s | 0.0131s
+    10000	| 0.098s | 0.0318s | 0.0278s
+    50000   | 0.662s | 0.7531s | 0.5834s
+
+    Given the above table, the execution time of 'sort1'
+    on a sequence of numbers already ordered (Best Case)
+    is very low moreover they are very similar to the
+    times in the 'Sorted' column of 'sort2', but 'sort1'
+    in comparison with 'sort2' suffers when dealing with
+    completely unordered (Worst Case) sequences of
+    numbers, in fact it can be seen from the previous
+    table how in the case of inverted sequences the times
+    are very far from those of 'sort2'.
+
+    So we have a behaviour similar to:
+    - Ω(n) in the Best Case
+    - O(n^2) in the Worst Case
+
+
+sort2 uses:
+
+    Merge Sort
+
+How do you know?:
+
+    SORT2 - TESTs
+    Values  | Sorted  | Random  | Reversed
+    5000    | 0.0045s |	0.0051s	| 0.0043s
+    10000   | 0.0082s |	0.0082s	| 0.0090s
+    50000   | 0.0683s |	0.0715s	| 0.0949s
+
+    Given the above table, the execution time of 'sort1'
+    remains stable both in case of sorting sequences of
+    numbers that are already sorted (Best Case) and in
+    case of sorting sequences of numbers completely
+    unsorted (Worst Case).
+
+    So we have a behaviour similar to:
+    - θ(n log n) in both cases
+
+
+sort3 uses:
+
+    Selection Sort
+
+How do you know?:
+
+    SORT3 - TESTs
+    Values  | Sorted  | Random  | Reversed
+    5000    | 0.0096s | 0.0070s | 0.0070s
+    10000   | 0.0180s | 0.0193s	| 0.0187s
+    50000   | 0.3549s | 0.3345s	| 0.3421s
+
+    Given the above table, we note that the execution
+    times of 'sort3' are quite similar among them and
+    are not affected by the fact that we are sorting
+    an already ordered sequence (Best Case) or
+    completely unordered (Worst Case), moreover the
+    execution times are the highest among the three
+    programs executed.
+
+    So we have a behaviour similar to:
+    - θ(n^2) in both cases

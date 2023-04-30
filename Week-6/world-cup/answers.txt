@@ -1,0 +1,31 @@
+Times:
+
+10 simulations: 0m0.026s
+100 simulations: 0m0.027s
+1000 simulations: 0m0.034s
+10000 simulations: 0m0.094s
+100000 simulations: 0m0.699s
+1000000 simulations: 0m6.882s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+Given the following results
+
+    Men World Cup 2018      Woman World Cup 2019
+        1. France               1. United States
+        2. Croatia              2. Netherlands
+        3. Belgium              3. England
+        4. England              4. Sweden
+
+In the "Men World Cup 2018" with all number of simulations (from 10 to 1000000)
+proved incorrect in all simulations. Instead in the "Woman World Cup 2019" the
+predictions,  with all number of simulations (from 10 to 1000000),are been
+slightly near to the real result.
+
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+
+It seems like the predictions stabilized after about 10000 simulations
