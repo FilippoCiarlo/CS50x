@@ -1,6 +1,6 @@
 # CS50x
 **Welcome to my CS50x 2023 course repository**<br>
-This repository contains solutions to the problem sets that will certainly make it easier for you to complete the course. However, I want to remind you of the importance of the [Academic Honesty](https://cs50.harvard.edu/x/2020/honesty/) and encourage you to try to solve the problem sets on your own before referring to any of my solutions. While it may be tempting to take the easy way out and look at the answers, investing your time and energy into solving the problems yourself is the only way to truly learn and master the concepts. So, please use this repository as a resource to help you when you are stuck, but remember that integrity and hard work are key components of academic success. Good luck with the course!
+This repository contains solutions to the problem sets that will certainly make it easier for you to complete the course. However, I want to remind you of the importance of the [Academic Honesty](https://cs50.harvard.edu/x/2023/honesty/) and encourage you to try to solve the problem sets on your own before referring to any of my solutions. While it may be tempting to take the easy way out and look at the answers, investing your time and energy into solving the problems yourself is the only way to truly learn and master the concepts. So, please use this repository as a resource to help you when you are stuck, but remember that integrity and hard work are key components of academic success. Good luck with the course!
 
 ## Table of Contents
 - [Week 0: Scratch](/Week-0)
