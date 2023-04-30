@@ -1,16 +1,15 @@
 # CS50x
+<strong>Welcome to my CS50x 2023 course repository</strong>
+This repository contains solutions to the problem sets that will certainly make it easier for you to complete the course. However, I want to remind you of the importance of the [Academic Honesty](https://cs50.harvard.edu/x/2020/honesty/) and encourage you to try to solve the problem sets on your own before referring to any of my solutions. While it may be tempting to take the easy way out and look at the answers, investing your time and energy into solving the problems yourself is the only way to truly learn and master the concepts. So, please use this repository as a resource to help you when you are stuck, but remember that integrity and hard work are key components of academic success. Good luck with the course!
 
 ## Table of Contents
-
 - [Week 0: Scratch](/Week-0)
   * [scratch](/Week-0)
-
 - [Week 1: C](/Week-1)
   * [Lab 1: Population](/Week-1/population)
   * [Hello](/Week-1/hello)
   * [Mario (More)](/Week-1/mario-more)
   * [Credit](/Week-1/credit)
-
 - [Week 2: Arrays](/Week-2)
   * [Practice Problems](/Week-2/Week-2-Practice-Problems)
     + [Hours](/Week-2/Week-2-Practice-Problems/hours)
@@ -19,7 +18,6 @@
   * [Lab 2: Scrabble](/Week-2/scrabble)
   * [Readability](/Week-2/readability)
   * [Substitution](/Week-2/substitution)
-
 - [Week 3: Algorithms](/Week-3)
   * [Practice Problems](/Week-3/Week-3-Practice-Problems)
     + [Recursive atoi](/Week-3/Week-3-Practice-Problems/atoi)
@@ -29,7 +27,6 @@
   * [Lab 3: Sort](/Week-3/sort)
   * [Plurality](/Week-3/plurality)
   * [Tideman](/Week-3/tideman)
-
 - [Week 4: Memory](/Week-4)
   * [Practice Problems](/Week-4/Week-4-Practice-Problems)
     + [Bottom Up](/Week-4/Week-4-Practice-Problems/bottomup)
@@ -37,13 +34,11 @@
   * [Lab 4: Volume](/Week-4/volume)
   * [Filter (More)](/Week-4/filter-more)
   * [Recover](/Week-4/recover)
-
 - [Week 5: Data Structures](/Week-5)
   * [Practice Problems](/Week-5/Week-5-Practice-Problems)
     + [Trie](/Week-5/Week-5-Practice-Problems/trie)
   * [Lab 5: Inheritance](/Week-5/inheritance)
   * [Speller](/Week-5/speller)
-
 - [Week 6: Python](/Week-6)
   * [Practice Problems](/Week-6/Week-6-Practice-Problems)
     + [Bank](/Week-6/Week-6-Practice-Problems/bank)
@@ -57,7 +52,6 @@
   * [Sentimental / Credit](/Week-6/sentimental-credit)
   * [Sentimental / Readability](/Week-6/sentimental-readability)
   * [DNA](/Week-6/sentimental-dna)
-
 - [Week 7: SQL](/Week-7)
   * [Practice Problems](/Week-7/Week-7-Practice-Problems)
     + [Favorites](/Week-7/Week-7-Practice-Problems/favorites)
@@ -65,13 +59,14 @@
   * [Lab 7: Songs](/Week-7/songs)
   * [Movies](/Week-7/movies)
   * [Fiftyville](/Week-7/fiftyville)
-
 - [Week 8: HTML,CSS,JavaScript](/Week-8)
   * [Lab 8: Trivia](/Week-8/trivia)
   * [Homepage](/Week-8/homepage)
-
 - [Week 9: Flask](/Week-9)
   * [Practice Problems](/Week-9/Week-9-Practice-Problems)
     + [Hello, Flask](/Week-9/Week-9-Practice-Problems/helloflask)
   * [Lab 9: Birthdays](/Week-9/birthdays)
   * [Finance](/Week-9/finance)
+
+---
+<center><strong>This Was CS50</strong></center>
